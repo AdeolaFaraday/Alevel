@@ -16,7 +16,7 @@ const messageSchema = new mongoose.Schema(
       type: Number,
       required: true
     },
-    phone: {
+    phonetwo: {
       type: Number,
       required: true,
     },
